@@ -17,5 +17,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesutdurmuser)](https://github.com/mesutdurmuser/github-readme-stats)
 
+[![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/)
 
-https://github.com/sw-yx?tab=repositories
