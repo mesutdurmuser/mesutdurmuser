@@ -22,6 +22,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesutdurmuser&show_icons=true&locale=en" alt="mesutdurmuser" /></p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesutdurmuser&label=Profile%20views&color=0e75b6&style=flat" alt="mesutdurmuser" /> </p>
 
