@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/androidmesut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="androidmesut" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mesutdurmuser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesutdurmuser/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17450443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17450443" height="30" width="40" /></a>
 <a href="https://fb.com/mesudurmuser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mesudurmuser" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mesudurmuser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mesudurmuser/" height="30" width="40" /></a>
 </p>
