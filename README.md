@@ -12,4 +12,7 @@
   - :bulb: [İnstagram](https://www.instagram.com/mesudurmuser/)
 
 
-[![Mesut Durmuser's github stats](https://github-readme-stats.vercel.app/api?username=mesutdurmuser&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Mesut Durmuser's github stats](https://github-readme-stats.vercel.app/api?username=mesutdurmuser&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/mesutdurmuser/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesutdurmuser)](https://github.com/mesutdurmuser/github-readme-stats)
