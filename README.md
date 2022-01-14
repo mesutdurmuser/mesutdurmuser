@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mesut</h1>
-<h3 align="center">A passionate junior developer from World</h3>
+<h3 align="center">A passionate junior developer from World!</h3>
 
 
 - 🌱 I’m currently learning **Android / Kotlin**
